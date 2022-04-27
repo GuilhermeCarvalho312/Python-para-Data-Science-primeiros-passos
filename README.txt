@@ -1,0 +1,1 @@
+O projeto foi desenvolvido usando o google colab segue-se o link: https://colab.research.google.com/drive/1wy6M7Wy8n83GrIJIckAMeI8sMmR2wSlq?usp=sharing
